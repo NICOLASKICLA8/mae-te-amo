@@ -1,0 +1,60 @@
+body {
+    background:	
+  #A9A9A9
+      ;font-family:Arial;
+   
+  } 
+  
+  .menu ul{
+    display:flex;
+    justify-content: space-around;<header>
+    <nav class="menu">
+      <ul>
+        <li><a href="#">Sobre</a></li>
+        <li><a href="#">Portfólio</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+    <h1 class="site-title"> Um segredinho para você!
+  <h2 class="sub-title">Mãe leia isto...
+    <h3 class="text">este texto é para mostra o quanto eu amo a pessoa que sempre esteve do meu lado, passou comigo nos tempos dificeis...
+      
+      <h4 class="final"> EU TE AMO
+        
+        <h4 class= "desfecho" >VOCÊ É INCRIVEL ELIZANDRA!!!
+  }
+  
+  .menu{
+     background-color:	
+  #808080;
+  }
+   
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  a{
+    color:#000000;
+    text-decoration:none;
+  }
+  a:hover{ text-decoration:underline;
+    
+  }
+  
+  .site-title {
+    text-align:center;
+    color:#4169E1
+  }
+  
+  .sub-title{
+     text-align:center;
+    color:#4169E1;
+  #
+  
+  }
+  
+  .final{
+    text-align:center;
+    color: red;
+  }
